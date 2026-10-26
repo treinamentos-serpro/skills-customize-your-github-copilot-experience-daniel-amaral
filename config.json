@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-stdlib-web-server",
+      "title": "Local Web Server with Python",
+      "description": "Build a small web server using Python's standard library and handle HTTP form submissions.",
+      "path": "assignments/python-stdlib-web-server",
+      "dueDate": "2026-11-02"
     }
   ]
 }
