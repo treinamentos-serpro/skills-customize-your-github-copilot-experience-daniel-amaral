@@ -1,11 +1,11 @@
 
 # 📘 Tarefa: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Desenvolva um jogo da Forca em Python para praticar manipulação de strings, estruturas de repetição, condicionais e entrada de dados. O jogador deve descobrir uma palavra escolhida aleatoriamente antes de esgotar as tentativas.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Selecionar a Palavra e Exibir o Progresso
 
